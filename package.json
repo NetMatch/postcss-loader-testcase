@@ -11,7 +11,7 @@
     "postcss"
   ],
   "author": "NetMatch",
-  "license": "ISC",
+  "license": "MIT",
   "browserslist": [
     "> 1%",
     "last 2 versions",
